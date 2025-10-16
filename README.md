@@ -19,7 +19,6 @@
 
 ```javascript
 const emmanuel = {
-    location: "Alimosho, Lagos, NG",
     role: "Lead Developer & Project Manager",
     company: "XJ TechSpace",
     focus: ["Full-Stack Development", "AI/ML Integration", "Open-Source"],
@@ -74,7 +73,7 @@ I specialize in transforming complex problems into elegant, scalable solutions. 
 
 **Crafting the future of content management**
 
-<img src="https://raw.githubusercontent.com/XBanTs/blogcraft/main/public/blogcraftpic1.png" width="100%" alt="BlogCraft Dashboard"/>
+<img src="https://github.com/XBanTs/blogcraft/blob/master/public/blogcraftpic1.png" width="100%" alt="BlogCraft Dashboard"/>
 
 **Modern blog CMS with advanced features:**
 
@@ -96,7 +95,7 @@ I specialize in transforming complex problems into elegant, scalable solutions. 
 
 **Financial insights at your fingertips**
 
-<img src="https://raw.githubusercontent.com/XBanTs/dashfi-frontend/main/public/dashfipic1.png" width="100%" alt="DashFi Dashboard"/>
+<img src="https://github.com/XBanTs/dashfi-frontend/blob/master/public/dashfipic1.png" width="100%" alt="DashFi Dashboard"/>
 
 **Full-stack financial analytics platform:**
 
@@ -124,7 +123,7 @@ I specialize in transforming complex problems into elegant, scalable solutions. 
 
 **AI-powered personalized recommendations**
 
-<img src="https://raw.githubusercontent.com/XBanTs/recommendation-api/main/images/movrecommender1.png" width="70%" alt="Movie Recommender"/>
+<img src="https://github.com/XBanTs/recommendation-api/blob/main/images/movrecommender1.png" width="70%" alt="Movie Recommender"/>
 
 **Intelligent recommendation engine with:**
 
@@ -201,7 +200,7 @@ Currently diving deep into:
 
 **I'm always open to collaborating on innovative projects!**
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayo@xjtechspace.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayomideoyewo@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayo.xjtechspace.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/XBanTs_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayomide-o-6b1130b1)
